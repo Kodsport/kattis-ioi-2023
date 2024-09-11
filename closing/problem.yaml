@@ -1,5 +1,6 @@
 source: International Olympiad in Informatics 2023
 license: cc by-sa
 type: scoring
+author: Hirotaka Yoneda, Masataka Yoneda
 grading:
   show_test_data_groups: true
