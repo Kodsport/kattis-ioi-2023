@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
 	ios_base::sync_with_stdio(false);
+    std::cin.tie(0);
     string secret;
     cin >> secret;
     int Q;
